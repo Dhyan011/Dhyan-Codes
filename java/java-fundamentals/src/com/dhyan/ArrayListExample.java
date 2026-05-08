@@ -31,7 +31,7 @@ public class ArrayListExample {
 //            System.out.println(list.contains(282));
 //            list.set(1, 44);
 //            list.remove(3);
-//            System.out.println(list);
+//            System.out.println(list)
 
             //input
             for (int i =0 ; i< 5 ; i++){
