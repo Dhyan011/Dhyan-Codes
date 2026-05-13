@@ -19,18 +19,17 @@ public class Swap2 {
         }
 
         // swapping first and last element
-        Swap2(arr, 0, N - 1);
-
+        Swap2 ( arr ,0 , N-1 );
         in.close();
     }
 
-    static void Swap2(int[] arr, int index0, int indexNMinus1) {
+    static void Swap2 (int[] arr, int first , int last ) {
 
-        int temp = arr[index0];
+        int temp = arr[first];
 
-        arr[index0] = arr[indexNMinus1];
+        arr[first] = arr[last];
 
-        arr[indexNMinus1] = temp;
+        arr[last] = temp;
 
         System.out.println(Arrays.toString(arr));
     }
