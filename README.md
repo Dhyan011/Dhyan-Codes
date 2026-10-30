@@ -1,4 +1,4 @@
-#📚 Learning Repository
+📚 Learning Repository
 
 This repository documents my journey of learning Computer Science and Engineering.
 
@@ -7,11 +7,8 @@ It serves as a personal knowledge base where I continuously track and organize m
 * 💻 Data Structures & Algorithms implementations
 * 🧩 LeetCode solutions and problem-solving approaches
 * ☕ Java and backend development learning
-* 🌐 Networking concepts
-* 📖 Notes from academic subjects such as Operating Systems, DBMS, Computer Networks, and Mathematics
-* 🛠 Projects, experiments, and other technical explorations
+* my leetcode : https://leetcode.com/u/DhyanPatel011/
 
-##🎯 Purpose
 
 The goal of this repository is to:
 
