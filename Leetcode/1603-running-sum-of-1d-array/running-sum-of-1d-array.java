@@ -6,6 +6,6 @@ class Solution {
         }
     
     return nums ;
-}
+    }
 
 }
