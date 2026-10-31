@@ -8,6 +8,8 @@ class Solution {
             Result [2*i + 1] = nums[i+n];
         }
 
+
+        System.gc();
         return Result ; 
         
     }
